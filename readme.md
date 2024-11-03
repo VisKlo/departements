@@ -1,9 +1,3 @@
-# TP 3
-
-## Rendu
-
-Le rendu peut se faire soit par un dépôt github (recommandé), soit en le déposant sur l'ide de la 3wa, soit par une archive (mettre votre nom dans l'archive) à envoyer par discord.
-
 ## Objectifs
 
 Apprendre à envoyer des requêtes HTTP asynchrones vers une API REST.
