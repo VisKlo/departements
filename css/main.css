@@ -1,0 +1,15 @@
+.dflex {
+    display: flex;
+}
+
+.fdircolumn {
+    flex-direction: column;
+}
+
+#list-communes {
+    margin-top: 2rem;
+}
+
+#map {
+    height: 40rem;
+}
